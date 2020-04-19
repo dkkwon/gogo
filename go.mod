@@ -1,4 +1,4 @@
-module github.com/jaeyeom/gogo
+module github.com/dkkwon/gogo
 
 go 1.13
 
