@@ -1,6 +1,6 @@
 package function
 
-import "github.com/jaeyeom/gogo/generate/stringset"
+import "github.com/dkkwon/gogo/generate/stringset"
 
 func InsertFunc(m stringset.StringSet) func(val string) {
 	return func(val string) {

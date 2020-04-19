@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jaeyeom/gogo/generate/stringset"
+	"github.com/dkkwon/gogo/generate/stringset"
 )
 
 func TestInsertFunc(t *testing.T) {

@@ -15,20 +15,20 @@ func Example_wrapping() {
 	}
 	// Output Example (for %+v trace):
 	// error while closing:
-	// github.com/jaeyeom/gogo/examples/errorh.h.func1
-	// /home/jaeyeom/go/src/github.com/jaeyeom/gogo/examples/errorh/errorh.go:40
+	// github.com/dkkwon/gogo/examples/errorh.h.func1
+	// /home/jaeyeom/go/src/github.com/dkkwon/gogo/examples/errorh/errorh.go:40
 	// - error while calling g:
-	// github.com/jaeyeom/gogo/examples/errorh.h
-	// /home/jaeyeom/go/src/github.com/jaeyeom/gogo/examples/errorh/errorh.go:45
+	// github.com/dkkwon/gogo/examples/errorh.h
+	// /home/jaeyeom/go/src/github.com/dkkwon/gogo/examples/errorh/errorh.go:45
 	// - error while calling f:
-	// github.com/jaeyeom/gogo/examples/errorh.g
-	// /home/jaeyeom/go/src/github.com/jaeyeom/gogo/examples/errorh/errorh.go:26
+	// github.com/dkkwon/gogo/examples/errorh.g
+	// /home/jaeyeom/go/src/github.com/dkkwon/gogo/examples/errorh/errorh.go:26
 	// - error while calling myFunc:
-	// github.com/jaeyeom/gogo/examples/errorh.f
-	// /home/jaeyeom/go/src/github.com/jaeyeom/gogo/examples/errorh/errorh.go:18
+	// github.com/dkkwon/gogo/examples/errorh.f
+	// /home/jaeyeom/go/src/github.com/dkkwon/gogo/examples/errorh/errorh.go:18
 	// - my error:
-	// github.com/jaeyeom/gogo/examples/errorh.init.ializers
-	// /home/jaeyeom/go/src/github.com/jaeyeom/gogo/examples/errorh/errorh.go:7
+	// github.com/dkkwon/gogo/examples/errorh.init.ializers
+	// /home/jaeyeom/go/src/github.com/dkkwon/gogo/examples/errorh/errorh.go:7
 
 	// Output:
 	// true

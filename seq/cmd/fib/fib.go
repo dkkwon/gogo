@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jaeyeom/gogo/seq"
+	"github.com/dkkwon/gogo/seq"
 )
 
 func main() {

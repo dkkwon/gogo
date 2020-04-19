@@ -3,7 +3,7 @@ package join
 import (
 	"fmt"
 
-	"github.com/jaeyeom/gogo/task"
+	"github.com/dkkwon/gogo/task"
 )
 
 func ExampleJoin() {

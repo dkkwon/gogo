@@ -3,7 +3,7 @@ package tablebased
 import (
 	"testing"
 
-	"github.com/jaeyeom/gogo/seq"
+	"github.com/dkkwon/gogo/seq"
 )
 
 func TestFibNth(t *testing.T) {

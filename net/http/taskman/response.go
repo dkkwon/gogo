@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/jaeyeom/gogo/task"
+	"github.com/dkkwon/gogo/task"
 )
 
 // ResponseError is the error for the JSON Response.
